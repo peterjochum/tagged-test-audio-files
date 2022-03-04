@@ -4,15 +4,15 @@ Small audio files tagged with test data for unit tests.
 
 ## Test data
 
-Test data is available in [test-data.yaml](test-data.yaml)
+Test data is available in [test-data.yaml](test-data.yaml).
 
 ## Embedded images
 
 Compressed file types have embedded images for comparison.
 
-![MP3](audio-x-mpeg.png =100x100)
-![Ogg](audio-x-vorbis+ogg.png =100x100)
-![Flac](audio-x-flac.png =100x100)
+<img src="audio-x-mpeg.png" alt="MP3" width="100">
+<img src="audio-x-vorbis+ogg.png" alt="Ogg Vorbis" width="100">
+<img src="audio-x-flac.png" alt="Flac" width="100">
 
 ## References
 
