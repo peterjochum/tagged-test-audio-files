@@ -1,0 +1,17 @@
+---
+title: test_title
+artist: test_artist
+album: test_album
+albumartist: test_albumartist
+description: test_description
+comment: test_description # mp3 uses comment instead of description
+performer: test_albumartist # mp3 uses performer instead of albumartist
+copyright: test_copyright
+year: 1234
+genre: test_genre
+tracknumber: 123
+website: https://github.com/peterjochum/tagged-test-audio-files
+img_sha256:
+  audio-x-flac.png: 74a5f872e211115b5ffd7e899b6457df870f8bb79180e7b258eda43abd331526
+  audio-x-vorbis+ogg.png: dc8db8dcd0cb9dc6725cf7ef949a3507543071a96f164cd86e35b18dcef9ae7a
+  audio-x-mpeg.png: 720f93930cedea1eae471f559eb5312e6dc02ba98b52b5f752b0096210075d9f
