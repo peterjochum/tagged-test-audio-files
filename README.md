@@ -10,10 +10,9 @@ Test data is available in [test-data.yaml](test-data.yaml)
 
 Compressed file types have embedded images for comparison.
 
-![MP3](audio-x-mpeg.png)
-![Ogg](audio-x-vorbis+ogg.png)
-![Flac](audio-x-flac.png)
-![Flac](audio-x-wav.png)
+![MP3](audio-x-mpeg.png =100x100)
+![Ogg](audio-x-vorbis+ogg.png =100x100)
+![Flac](audio-x-flac.png =100x100)
 
 ## References
 
